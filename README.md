@@ -4,7 +4,7 @@ Mục đích nhăm giúp các bạn mới bắt đầu với golang có thể hi
 - cấu trúc một project golang
 - cách viết một API đơn giản với golang
 - cách kết nối với database
-Link bài viết chi tiết: [ở đây](https://t.ly/clbnD)
+- Link bài viết chi tiết: [ở đây](https://t.ly/clbnD)
 ## need to install before run
 - [golang](https://golang.org/doc/install)
 - [docker](https://docs.docker.com/get-docker/)
